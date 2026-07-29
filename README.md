@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Louis Vu"/>
+<img src="./ascii.svg" alt="Louis Vu"/>
 
 [instagram](https://www.instagram.com/lalalouis.vu/) &nbsp;·&nbsp;
 [email](mailto:louishvu1@gmail.com)
